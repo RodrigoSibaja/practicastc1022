@@ -1,0 +1,113 @@
+commit 6b09727c1208e8da78c9d026a49dc1043bcb4e8d
+Merge: a4a3f31 0a58632
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Nov 7 11:30:53 2018 -0600
+
+    resolví los conflictos
+
+commit a4a3f31d7106524153ef97a836993fd916bce8f5
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Nov 7 11:25:47 2018 -0600
+
+    actualización local
+
+commit 0a586321320656bc11756257475e0caabb77090b
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:53 2018 -0600
+
+    Update tarea10.txt
+    
+    modificación remota de tarea10
+
+commit 4dfb5bd1c3161322a05901c9e5e9c83886bcf59b
+Merge: b6d74e2 9da0721
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Nov 7 11:13:53 2018 -0600
+
+    Merge branch 'master' of https://github.com/RodrigoSibaja/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea 11 remota
+
+commit 9da0721833bc892aec51d946f96d82ea8ee1612a
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:50 2018 -0600
+
+    Create tarea11.txt
+    
+    subí mi tarea en el repositorio remoto
+
+commit b6d74e2519a48276ebc68c586bcdca752f8ea78a
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Nov 7 11:10:48 2018 -0600
+
+    tarea local
+
+commit 869e409c3ea6698398f34b2d271ef4ff106979fe
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Fri Oct 26 11:24:33 2018 -0500
+
+    Add files via upload
+    
+    Ejercicios de programación
+
+commit 8f0db7fda595dbd2595dbbf7e07c626f5bebf9a5
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Oct 24 11:47:33 2018 -0500
+
+    Archivos cifrados
+
+commit 161de44b47a0467418fa256a21b1aae08a1ccd76
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Oct 24 11:41:50 2018 -0500
+
+    Add files via upload
+
+commit c9e6451f5fa97134d3bc3c6cfec64e41a62e4856
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Oct 24 11:18:21 2018 -0500
+
+    Archivos cifrado
+
+commit 2b4db8f3c73bbf2a3d951793cd292387c83f03b9
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Oct 24 11:08:16 2018 -0500
+
+    Add files via upload
+    
+    Llave pública del profesor
+
+commit 01c4b22633a7857e27957171abbc7693a9c5cce3
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Oct 24 11:05:01 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit db7e1423fd1526882fa019025a43aa325dfd74f6
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Oct 24 11:02:24 2018 -0500
+
+    Add files via upload
+    
+    Práctica
+
+commit 255f68ee4aa2f4d4f88d686e1ca58cb2a7a9fe9f
+Author: RodrigoSibaja <42215175+RodrigoSibaja@users.noreply.github.com>
+Date:   Wed Oct 24 10:43:33 2018 -0500
+
+    Delete A01023121MyPrivateKey.gpg
+    
+    Se eliminó la llave privada
+
+commit f2dcb2e44249b7f8ee57972384dfe8f7c7e98720
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Oct 24 10:37:32 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit 251a6268fcd5f7c76da6ed6d9ccd9a76be6a239e
+Author: RodrigoSibaja <A01023121@itesm.mx>
+Date:   Wed Oct 10 12:31:57 2018 -0500
+
+    primer commit
